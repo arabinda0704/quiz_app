@@ -32,7 +32,7 @@ export const jsQuizz = {
       },
       {
         question: "In which language is React.js written?",
-        choices: ["Python", "Java", "C#", "JavaScript"],
+        choices: ["Python", "JAVA", "C#", "JavaScript"],
         type: "MCQs",
         correctAnswer: "JavaScript",
       },
