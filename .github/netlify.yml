@@ -1,8 +1,6 @@
 name: 'Netlify Preview Deploy'
 
-on:
-  pull_request:
-    types: ['opened', 'edited', 'synchronize']
+on: [pull_request]
 
 jobs:
   deploy:
